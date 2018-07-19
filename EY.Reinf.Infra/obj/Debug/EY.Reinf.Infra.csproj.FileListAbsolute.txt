@@ -1,0 +1,105 @@
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csprojResolveAssemblyReference.cache
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csproj.CoreCompileInputs.cache
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.dll.config
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.dll
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.pdb
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reinf.Infra\bin\Debug\EntityFramework.dll
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reinf.Infra\bin\Debug\EntityFramework.SqlServer.dll
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.dll
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.pdb
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.dll.config
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reinf.Infra\bin\Debug\EntityFramework.xml
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reinf.Infra\bin\Debug\EntityFramework.SqlServer.xml
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.dll
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.pdb
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.dll.config
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.dll
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.pdb
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.dll
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.dll
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.pdb
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.dll.config
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.xml
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csprojAssemblyReference.cache
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csproj.CoreCompileInputs.cache
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csproj.CopyComplete
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.dll
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.pdb
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.dll.config
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.dll
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.pdb
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.dll
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.dll
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.pdb
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.dll.config
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.xml
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csprojAssemblyReference.cache
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csproj.CopyComplete
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.dll
+C:\Users\rafael\Desktop\Ernst\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.pdb
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\c-ReinfGn.dll
+C:\Users\YH259CJ\Desktop\Ernst\REINF\EY.Reinf.Infra\bin\Debug\c-ReinfGn.pdb
+C:\Users\Vinicius Galhiardi\Desktop\VIN\VIN\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius Galhiardi\Desktop\VIN\VIN\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Galhiardi\Desktop\VIN\VIN\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.dll
+C:\Users\Vinicius Galhiardi\Desktop\VIN\VIN\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.pdb
+C:\Users\Vinicius Galhiardi\Desktop\VIN\VIN\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.dll.config
+C:\Users\Vinicius Galhiardi\Desktop\VIN\VIN\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.dll
+C:\Users\Vinicius Galhiardi\Desktop\VIN\VIN\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.pdb
+C:\Users\Vinicius Galhiardi\Desktop\VIN\VIN\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.dll
+C:\Users\Vinicius Galhiardi\Desktop\VIN\VIN\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vinicius Galhiardi\Desktop\VIN\VIN\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.dll
+C:\Users\Vinicius Galhiardi\Desktop\VIN\VIN\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.pdb
+C:\Users\Vinicius Galhiardi\Desktop\VIN\VIN\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.dll.config
+C:\Users\Vinicius Galhiardi\Desktop\VIN\VIN\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.xml
+C:\Users\Vinicius Galhiardi\Desktop\VIN\VIN\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.dll.config
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.dll
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.pdb
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.dll
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.dll
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.pdb
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.dll.config
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.xml
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csprojAssemblyReference.cache
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csproj.CopyComplete
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.dll
+C:\Users\rafael\Desktop\REINF_2\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.pdb
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.dll.config
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.dll
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.pdb
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.dll
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.dll
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.pdb
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.dll.config
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.xml
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csprojAssemblyReference.cache
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csproj.CoreCompileInputs.cache
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csproj.CopyComplete
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.dll
+C:\Users\YH259CJ\Desktop\REINF_3\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.pdb
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.dll.config
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.dll
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Infra.pdb
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.dll
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.dll
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.pdb
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\bin\Debug\EY.Reinf.Object.dll.config
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.xml
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csprojAssemblyReference.cache
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csproj.CoreCompileInputs.cache
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.csproj.CopyComplete
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.dll
+C:\Users\YH259CJ\Desktop\REINF_5\REINF\EY.Reinf.Infra\obj\Debug\EY.Reinf.Infra.pdb

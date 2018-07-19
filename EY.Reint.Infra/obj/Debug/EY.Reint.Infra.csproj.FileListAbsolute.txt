@@ -1,0 +1,14 @@
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\bin\Debug\EY.Reint.Infra.dll
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\bin\Debug\EY.Reint.Infra.pdb
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\obj\Debug\EY.Reint.Infra.csprojResolveAssemblyReference.cache
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\obj\Debug\EY.Reint.Infra.csproj.CoreCompileInputs.cache
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\obj\Debug\EY.Reint.Infra.dll
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\obj\Debug\EY.Reint.Infra.pdb
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\bin\Debug\EY.Reint.Infra.dll.config
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\bin\Debug\EntityFramework.dll
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\bin\Debug\EntityFramework.SqlServer.dll
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\bin\Debug\EY.Reinf.Object.dll
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\bin\Debug\EY.Reinf.Object.pdb
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\bin\Debug\EY.Reinf.Object.dll.config
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\bin\Debug\EntityFramework.xml
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\bin\Debug\EntityFramework.SqlServer.xml

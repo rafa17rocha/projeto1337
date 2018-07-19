@@ -1,0 +1,3 @@
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\obj\Debug\EY.Reinf.Infra.csproj.CoreCompileInputs.cache
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\obj\Debug\EY.Reint.Infra.dll
+D:\EY\REINF\Aplicacao V.1\EY.Reinf\EY.Reint.Infra\obj\Debug\EY.Reint.Infra.pdb
