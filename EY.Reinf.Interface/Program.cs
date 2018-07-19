@@ -12,6 +12,7 @@ namespace EY.Reinf.Interface
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new ReinfForm());
             //Application.Run(new PesquisarForm());
+            //RAFA MASCOTE
         }
     }
 }
